@@ -1,8 +1,6 @@
 const SuperQuality = () => {
   return (
-    <div>
-      
-    </div>
+    <div>SuperQuality</div>
   )
 }
 

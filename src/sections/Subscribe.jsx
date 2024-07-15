@@ -1,8 +1,6 @@
 const Subscribe = () => {
   return (
-    <div>
-      
-    </div>
+    <div>Subscribe</div>
   )
 }
 

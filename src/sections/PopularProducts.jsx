@@ -1,8 +1,6 @@
 const PopularProducts = () => {
   return (
-    <div>
-      
-    </div>
+    <div>PopularProducts</div>
   )
 }
 
